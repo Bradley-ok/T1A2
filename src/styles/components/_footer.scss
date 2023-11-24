@@ -1,0 +1,21 @@
+.footer{
+    position:static;
+    background-color: $primary-color;
+    border-radius: 10px;
+    overflow-x: hidden;
+    width: 100%;
+    bottom: 0px;
+    margin-top: auto;
+    
+    .footer-links{
+        display: flex;
+        list-style-type: none;
+        border-radius: 5px;
+        padding: 1rem;
+        width: 100%;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+        
+    }
+

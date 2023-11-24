@@ -1,0 +1,51 @@
+.home {
+        width: 90vw;
+        margin: 0 auto 2rem auto;
+        padding-bottom: 2rem;
+        border-bottom: 0.2rem solid #004D26;
+        border-radius: 2px;
+        
+}
+
+.home-info{
+    font-family: monospace;
+    h1{
+        text-align: center;
+        margin: 0.5rem;
+        font-size: 2.5rem;
+        font-weight: 300;
+        
+    }
+    h2{
+        margin-top: 20px;
+        text-align: center;
+    }
+    #one{
+        text-align: center;
+        font-size: 1rem;
+        border-bottom: 0.1rem solid#004D26;
+        border-radius: 2px;
+    }
+    #two{
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 0.5rem;
+        font-size: 1.5rem;
+        font-weight: 100;
+    }
+    h3{
+        text-align: center;
+        margin: 0.5rem;
+        font-size: 1.5rem;
+        font-weight: 500;
+    }
+    p{
+        text-align: center;
+        margin: 0.5rem;
+        font-size: 1.5rem;
+        font-weight: 500;
+    }
+
+}
+
+
